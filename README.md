@@ -1,3 +1,5 @@
+# DepressionPrediction-BACK
+
 해당 프로젝트는 https://github.com/IMP-FINAL-PROJECT/FINAL-BACK에서 작업한 내용의 후속 연구활동입니다.
 
 daily_life_pattern의 데이터를 가져와 프론트로 보내주고 ondeviceAI로 분석한 결과를 데이터베이스에 저장하는 역할을 합니다.
